@@ -1,0 +1,3 @@
+[submodule "rv-libdec"]
+	path = rv-libdec
+	url = https://github.com/xigh/rv-libdec
