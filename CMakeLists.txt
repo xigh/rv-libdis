@@ -11,4 +11,4 @@ add_library(libdis
 )
 
 target_link_libraries(libdis rv-libdec)
-target_include_directories(libdis PUBLIC include rv-libdec/include)
+target_include_directories(libdis PUBLIC include rv-libdec/include rv-libdec/rv-libsys/include rv-libdec/rv-libopc/include)
